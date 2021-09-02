@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo 'hello from git 2'; ?>
+    <?php echo 'hello from git 3'; ?>
 </body>
 </html>
