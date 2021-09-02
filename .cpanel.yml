@@ -1,0 +1,5 @@
+---
+deployment:
+ tasks:
+ - export DEPLOYPATH=/home/webcodice/public_html/samples/harman/nonRoot/git
+ - /bin/cp index.html $DEPLOYPATH
